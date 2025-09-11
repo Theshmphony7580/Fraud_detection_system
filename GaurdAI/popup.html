@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Element Inspector</title>
+  <script src="popup.js"></script>
+  <style>
+    body {
+      width: 250px;
+      padding: 15px;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      box-sizing: border-box;
+    }
+    .container {
+      text-align: center;
+    }
+    .logo {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 15px;
+    }
+    .activate-btn {
+      background: linear-gradient(45deg, #007bff, #0056b3);
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .activate-btn:hover {
+      background: linear-gradient(45deg, #0056b3, #003d80);
+      transform: translateY(-2px);
+    }
+    .activate-btn:disabled {
+      background: #cccccc;
+      cursor: not-allowed;
+      transform: none;
+    }
+    .status {
+      font-size: 12px;
+      color: #555;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="icons/logo.png" alt="Element Inspector Logo" class="logo">
+    <button id="activateBtn" class="activate-btn">Activate Inspector</button>
+    <div id="status" class="status">Click to start inspecting elements</div>
+  </div>
+</body>
+</html>
