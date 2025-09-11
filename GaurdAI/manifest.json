@@ -2,19 +2,19 @@
   "manifest_version": 3,
   "name": "Element Inspector",
   "version": "1.0",
-  "description": "Inspect elements on a webpage, extract text on click, and display in a sidebar.",
+  "description": "Inspect elements on a webpage, extract text on click, send to POST request, and display in a sidebar.",
   "permissions": [
     "activeTab"
   ],
   "host_permissions": [
-    "https://fake-api.example.com/*"
+    "https://aegisai-hyeu.onrender.com/*"
   ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "icons/icon1.png",
-      "48": "icons/icon2.png",
-      "128": "icons/icon3.png"
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
     }
   },
   "background": {
@@ -28,8 +28,8 @@
     }
   ],
   "icons": {
-    "16": "icons/icon1.png",
-    "48": "icons/icon2.png",
-    "128": "icons/icon3.png"
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   }
 }

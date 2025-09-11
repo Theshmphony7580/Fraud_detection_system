@@ -65,31 +65,29 @@ function handleMouseMove(e) {
   previewBox.style.top = (e.pageY + 5) + 'px';
 }
 
-function handleClick(e) {
+async function handleClick(e) {
   if (!isInspectorActive) return;
   e.preventDefault();
   e.stopPropagation();
   const text = extractText(e.target);
   
-  // Send POST request with the extracted text
-  fetch('https://fake-api.example.com/submit', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify({ selectedText: text })
-  })
-    .then(response => {
-      if (!response.ok) throw new Error('Network response was not ok');
-      console.log('POST request sent successfully:', response);
-      return response.json();
-    })
-    .catch(error => {
-      console.error('Error sending POST request:', error);
-    });
-
-  showSidebar(text);
-  deactivateInspector(); // Disable inspector mode after opening sidebar
+  // Send text to background script for POST request (avoids CORS in content script)
+  let postResponse = 'Pending...';
+  chrome.runtime.sendMessage({
+    type: 'SEND_POST_REQUEST',
+    text: text
+  }, (response) => {
+    if (chrome.runtime.lastError) {
+      postResponse = `Failed to send POST request: ${chrome.runtime.lastError.message}`;
+      console.error('Message to background failed:', chrome.runtime.lastError);
+    } else if (response.success) {
+      postResponse = response.response;
+    } else {
+      postResponse = response.error;
+    }
+    showSidebar(text, postResponse);
+    deactivateInspector(); // Disable inspector mode after opening sidebar
+  });
 }
 
 function extractText(element) {
@@ -130,7 +128,7 @@ function removePreview() {
   }
 }
 
-function showSidebar(text) {
+function showSidebar(text, postResponse) {
   removeSidebar();
   sidebar = document.createElement('div');
   sidebar.id = 'element-inspector-sidebar';
@@ -147,14 +145,22 @@ function showSidebar(text) {
     box-shadow: -2px 0 8px rgba(0,0,0,0.1);
     font-family: Arial, sans-serif;
     box-sizing: border-box;
+    overflow-y: auto;
   `;
   sidebar.innerHTML = `
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
       <h3 style="margin: 0; font-size: 16px; color: #333;">Element Inspector</h3>
       <button id="close-sidebar" style="background: #f0f0f0; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; cursor: pointer; font-size: 12px;">Close</button>
     </div>
-    <textarea id="inspector-textarea" style="width: 100%; height: 150px; padding: 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; resize: vertical;" readonly>${text}</textarea>
-    <p style="font-size: 12px; color: #666; margin-top: 10px;">Text extracted from selected element.</p>
+    <div style="margin-bottom: 15px;">
+      <h4 style="margin: 0 0 5px; font-size: 14px; color: #333;">Selected Text</h4>
+      <textarea id="inspector-textarea" style="width: 100%; height: 150px; padding: 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; resize: vertical;" readonly>${text}</textarea>
+    </div>
+    <div>
+      <h4 style="margin: 0 0 5px; font-size: 14px; color: #333;">API Response</h4>
+      <pre style="background: #f5f5f5; padding: 8px; border: 1px solid #000000ff; border-radius: 4px; font-size: 12px;color: #000000; max-height: 150px; overflow-y: auto; white-space: pre-wrap; word-wrap: break-word;">${postResponse}</pre>
+    </div>
+    <p style="font-size: 12px; color: #666; margin-top: 10px;">Text extracted and sent to API.</p>
   `;
   document.body.appendChild(sidebar);
 
