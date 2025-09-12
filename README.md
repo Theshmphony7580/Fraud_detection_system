@@ -1,97 +1,166 @@
-🛡️ Fraud Message Detection Extension
-<p align="center"> <img src="GuardAI/icons/icon128.png" alt="Extension Banner" width="800"/> </p> <p align="center"> A browser extension that helps you **detect fraudulent or scam messages instantly**. Select suspicious text, and let the AI-powered system analyze it for you. </p>
-✨ Features
+# 🛡 Fraud Detection System
 
-✅ One-click Activation – Activate directly from the extension popup.
-✅ Text Extraction – Simply click on any text to capture it.
-✅ Real-time Analysis – Sends the text via a POST request to the backend AI.
-✅ Sidebar Report – Instantly see if the text is Legit ✅ or a Scam 🚨.
-✅ Clean & Intuitive UI – Easy-to-use sidebar interface.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Theshmphony7580/Fraud_detection_system)
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org)
+[![Node.js Version](https://img.shields.io/badge/node.js-14.x+-green)](https://nodejs.org)
 
-<p align="center"> <img src="images/demo1.png" alt="Demo Screenshot" width="700"/> </p>
-🚀 How It Works
+A machine learning-powered system designed to detect fraudulent transactions in real-time. This project combines Python-based data science with a JavaScript server infrastructure to provide an end-to-end fraud detection solution.
 
-Open the Extension
-Click the extension icon in your browser.
+---
 
-<p align="center"> <img src="images/open-extension.png" alt="Open Extension" width="600"/> </p>
+## 📸 Extension Screenshots  
 
-Activate Inspector Mode
-Press the Activate button to enable text selection.
+### 🔹 Extension Popup
+<p align="center">
+  <img src="asset/exticon.png" alt="Extension Popup" width="600"/>
+</p>
 
-<p align="center"> <img src="images/activate.png" alt="Activate Extension" width="600"/> </p>
+### 🔹 Sidebar Analysis  
+<p align="center">
+  <img src="asset/sidebar.png" alt="Sidebar Analysis" width="600"/>
+</p>
 
-Select Suspicious Text
-Just click on the message you want to analyze. The extension will automatically extract it.
+### 🔹 Scam Detection Example  
+<p align="center">
+  <img src="asset/example.png" alt="Scam Detection Example" width="600"/>
+</p>
 
-<p align="center"> <img src="images/select-text.png" alt="Select Text" width="600"/> </p>
+---
 
-Get Instant Results
-The sidebar will slide in with the analysis result:
+## 🚀 Features
 
-✅ Legit message
+- ✅ Real-time fraud detection
+- 🔍 Machine learning model for transaction analysis
+- 🧠 Intelligent behavior analysis using GuardAI module
+- 🌐 REST API for integration with web or mobile applications
+- 📈 Visualization and logging of prediction results
 
-🚨 Scam detected
+<!-- Image Placeholder: Feature Showcase or Screenshot -->
 
-<p align="center"> <img src="images/sidebar.png" alt="Sidebar Result" width="600"/> </p>
-🛠️ Installation
-1. Clone the Repo
-git clone https://github.com/your-username/fraud-message-detection.git
+## 🧠 Tech Stack
 
-2. Load Extension in Browser
+| Layer         | Technology                          |
+|---------------|-------------------------------------|
+| Frontend      | HTML, JavaScript                    |
+| Backend       | Node.js (server_live)               |
+| ML Model      | Python (scikit-learn, pandas, etc.) |
+| Data Handling | CSV / JSON pipelines                |
+| Deployment    | Localhost / Cloud-ready             |
 
-Open Chrome / Edge and go to:
+<!-- Image Placeholder: Tech Stack Diagram -->
 
-chrome://extensions/
+## 📁 Project Structure
 
 
-Enable Developer Mode (top right).
+Fraud_detection_system/
+│
+├── model/               # ML model training and evaluation
+├── server_live/         # Node.js backend serving predictions
+├── GaurdAI/             # Security and monitoring logic
+├── test/                # Unit and integration tests
+└── utils/               # Helper functions, data processing
 
-Click Load unpacked.
 
-Select the project folder.
+## 📊 Machine Learning Model
 
-That’s it! 🎉 Your extension is ready.
+The model is trained on historical transaction data to identify patterns indicative of fraud. It considers features such as:
 
-📂 Project Structure
-fraud-message-detection/
-│── background.js       # Handles background logic
-│── content.js          # Injected into web pages for text extraction
-│── popup.html          # Extension popup UI
-│── popup.js            # Popup logic
-│── sidebar.html        # Sidebar UI
-│── sidebar.js          # Sidebar logic
-│── manifest.json       # Extension manifest
-│── styles/             # CSS files
-│── images/             # Placeholder for icons/screenshots
+- Transaction amount
+- Location
+- Timestamp
+- User behavior patterns
+- Device fingerprint
 
-📸 Screenshots
+*Model Type*: Random Forest / XGBoost / Logistic Regression  
+*Metrics Used*: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-Extension Popup
-<img src="images/popup.png" alt="Popup UI" width="600"/>
+## ⚙ How to Run
 
-Sidebar Analysis
-<img src="images/sidebar.png" alt="Sidebar UI" width="600"/>
+### 1. Clone the Repository
+bash
+git clone https://github.com/Theshmphony7580/Fraud_detection_system.git
+cd Fraud_detection_system
 
-Scam Detection Example
-<img src="images/example-scam.png" alt="Scam Example" width="600"/>
 
-🔮 Future Improvements
+### 2. Install Dependencies
+#### For Python (ML Model)
+bash
+cd model
+pip install -r requirements.txt
 
-🌍 Multi-language support
 
-📊 Detailed scam probability score
+#### For Node.js (Backend)
+bash
+cd ../server_live
+npm install
 
-🧠 Offline ML model integration
 
-🎨 Customizable sidebar theme
+### 3. Run the Backend Server
+bash
+node index.js
 
-🤝 Contributing
 
-Contributions are welcome! 🎉
+### 4. Run the ML Model (for Testing or Retraining)
+bash
+cd ../model
+python train_model.py
 
-Fork this repo
 
-Create a new branch
+<!-- Image Placeholder: Setup or Workflow Screenshot -->
 
-Submit a PR
+## 📈 Example API Request
+*Endpoint*: POST /predict
+
+*Request Body*:
+json
+{
+  "transaction_id": "TX12345",
+  "amount": 420.75,
+  "location": "New York, USA",
+  "timestamp": "2025-09-12T14:30:00Z",
+  "user_id": "U56789"
+}
+
+
+*Response*:
+json
+{
+  "fraudulent": true,
+  "confidence": 0.92
+}
+
+
+## 🛡 GuardAI Module
+A lightweight security layer that monitors prediction confidence, flags suspicious patterns, and integrates alerting logic.
+
+*Features*:
+- Rate-limiting suspicious API calls
+- Confidence threshold alerts
+- Logging anomalous patterns
+
+<!-- Image Placeholder: GuardAI Workflow or Alert Example -->
+
+## 📌 TODO / Roadmap
+- Add unit tests for API endpoints
+- Improve data preprocessing with more robust pipelines
+- Integrate visualization dashboard (e.g., with Plotly or D3.js)
+- Add Docker support for deployment
+
+## 🧑‍💻 Contributing
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
+
+Please ensure your code follows the project's coding standards and includes appropriate tests.
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+## 🙌 Acknowledgements
+Thanks to all open-source contributors and libraries used in this project!
+
+<!-- Image Placeholder: Contributor or Community Graphic -->
