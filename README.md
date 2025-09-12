@@ -1,5 +1,5 @@
 🛡️ Fraud Message Detection Extension
-<p align="center"> <img src="images/banner.png" alt="Extension Banner" width="800"/> </p> <p align="center"> A browser extension that helps you **detect fraudulent or scam messages instantly**. Select suspicious text, and let the AI-powered system analyze it for you. </p>
+<p align="center"> <img src="GuardAI/icons/icon128.png" alt="Extension Banner" width="800"/> </p> <p align="center"> A browser extension that helps you **detect fraudulent or scam messages instantly**. Select suspicious text, and let the AI-powered system analyze it for you. </p>
 ✨ Features
 
 ✅ One-click Activation – Activate directly from the extension popup.
