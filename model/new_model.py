@@ -1,40 +1,43 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+from sklearn.metrics import classification_report, accuracy_score
+import joblib
 
-# 1. Load baseline dataset
-df = pd.read_csv("synthetic_scam_dataset_clean.csv")
+# Load processed dataset
+df = pd.read_csv("model/Numerical_dataset.csv")
 
 # Features and labels
-X = df["Message"]
-y = df["ScamLabel"]
+X = df.drop("label", axis=1)
+y = df["label"]
 
-# 2. Train-test split
+# Train/Test Split
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42, stratify=y
 )
 
-# 3. Vectorization (TF-IDF)
-vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=5000)  
-X_train_tfidf = vectorizer.fit_transform(X_train)
-X_test_tfidf = vectorizer.transform(X_test)
+# Train Logistic Regression Model
+model = LogisticRegression(max_iter=1000, class_weight="balanced", random_state=42)
+model.fit(X_train, y_train)
 
-# 4. Model training (Logistic Regression)
-model = LogisticRegression(max_iter=1000)
-model.fit(X_train_tfidf, y_train)
+# Predictions
+y_pred = model.predict(X_test)
 
-# 5. Predictions
-y_pred = model.predict(X_test_tfidf)
+# Evaluation
+accuracy = accuracy_score(y_test, y_pred)
+print(f"Accuracy: {accuracy:.4f}\n")
 
-# 6. Evaluation
-print("✅ Test Accuracy:", accuracy_score(y_test, y_pred))
-print("\nClassification Report:\n", classification_report(y_test, y_pred))
-print("\nConfusion Matrix:\n", confusion_matrix(y_test, y_pred))
+print("Classification Report:")
+print(classification_report(
+    y_test, y_pred,
+    target_names=["Legit (0)", "Scam (1)", "Likely Scam (2)"]
+))
 
-import joblib
-
-# Save the trained model and vectorizer
+# Save model
 joblib.dump(model, "scam_classifier.joblib")
-joblib.dump(vectorizer, "tfidf_vectorizer.joblib")
+print("✅ Model saved as scam_classifier.joblib")
+
+# (Optional) Save test split for future validation
+X_test.to_csv("X_test.csv", index=False)
+y_test.to_csv("y_test.csv", index=False)
+print("✅ Test split saved as X_test.csv and y_test.csv")
