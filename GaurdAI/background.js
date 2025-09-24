@@ -8,7 +8,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     sendResponse({ success: true });
   } else if (message.type === 'SEND_POST_REQUEST') {
     // Handle POST request in background script to avoid CORS in content script
-    fetch('https://aegisai-hyeu.onrender.com/predict', {
+    fetch('https://aegisai-291s.onrender.com/predict', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
