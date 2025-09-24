@@ -1,4 +1,4 @@
-# 🛡️ Fraud Detection System
+# 🛡 Fraud Detection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Theshmphony7580/Fraud_detection_system)
@@ -52,7 +52,7 @@ A machine learning-powered system designed to detect fraudulent transactions in 
 
 ## 📁 Project Structure
 
-```
+
 Fraud_detection_system/
 │
 ├── model/               # ML model training and evaluation
@@ -60,7 +60,7 @@ Fraud_detection_system/
 ├── GaurdAI/             # Security and monitoring logic
 ├── test/                # Unit and integration tests
 └── utils/               # Helper functions, data processing
-```
+
 
 ## 📊 Machine Learning Model
 
@@ -72,48 +72,48 @@ The model is trained on historical transaction data to identify patterns indicat
 - User behavior patterns
 - Device fingerprint
 
-**Model Type**: Random Forest / XGBoost / Logistic Regression  
-**Metrics Used**: Accuracy, Precision, Recall, F1-score, ROC-AUC
+*Model Type*: Random Forest / XGBoost / Logistic Regression  
+*Metrics Used*: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-## ⚙️ How to Run
+## ⚙ How to Run
 
 ### 1. Clone the Repository
-```bash
+bash
 git clone https://github.com/Theshmphony7580/Fraud_detection_system.git
 cd Fraud_detection_system
-```
+
 
 ### 2. Install Dependencies
 #### For Python (ML Model)
-```bash
+bash
 cd model
 pip install -r requirements.txt
-```
+
 
 #### For Node.js (Backend)
-```bash
+bash
 cd ../server_live
 npm install
-```
+
 
 ### 3. Run the Backend Server
-```bash
+bash
 node index.js
-```
+
 
 ### 4. Run the ML Model (for Testing or Retraining)
-```bash
+bash
 cd ../model
 python train_model.py
-```
+
 
 <!-- Image Placeholder: Setup or Workflow Screenshot -->
 
 ## 📈 Example API Request
-**Endpoint**: `POST /predict`
+*Endpoint*: POST /predict
 
-**Request Body**:
-```json
+*Request Body*:
+json
 {
   "transaction_id": "TX12345",
   "amount": 420.75,
@@ -121,20 +121,20 @@ python train_model.py
   "timestamp": "2025-09-12T14:30:00Z",
   "user_id": "U56789"
 }
-```
 
-**Response**:
-```json
+
+*Response*:
+json
 {
   "fraudulent": true,
   "confidence": 0.92
 }
-```
 
-## 🛡️ GuardAI Module
+
+## 🛡 GuardAI Module
 A lightweight security layer that monitors prediction confidence, flags suspicious patterns, and integrates alerting logic.
 
-**Features**:
+*Features*:
 - Rate-limiting suspicious API calls
 - Confidence threshold alerts
 - Logging anomalous patterns
@@ -150,9 +150,9 @@ A lightweight security layer that monitors prediction confidence, flags suspicio
 ## 🧑‍💻 Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
 5. Open a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
