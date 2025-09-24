@@ -81,9 +81,12 @@ async function handleClick(e) {
       postResponse = `Failed to send POST request: ${chrome.runtime.lastError.message}`;
       console.error('Message to background failed:', chrome.runtime.lastError);
     } else if (response.success) {
-      postResponse = response.response;
+      postResponse = response.response
+      postResponse = JSON.stringify(response.response, null, 2);
+
     } else {
       postResponse = response.error;
+      
     }
     showSidebar(text, postResponse);
     deactivateInspector(); // Disable inspector mode after opening sidebar
