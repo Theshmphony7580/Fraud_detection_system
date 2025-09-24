@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # --- Load model and vectorizer ---
 BASE_DIR = os.path.dirname(__file__)
-model = joblib.load(os.path.join(BASE_DIR, "scam_model.joblib"))
+model = joblib.load(os.path.join(BASE_DIR, "scam_classifier.joblib"))
 vectorizer = joblib.load(os.path.join(BASE_DIR, "tfidf_vectorizer.joblib"))
 
 # --- Text cleaning ---
