@@ -9,14 +9,9 @@ app = Flask(__name__)
 
 # --- Load model, vectorizer, and keywords ---
 BASE_DIR = os.path.dirname(__file__)
-<<<<<<< Updated upstream
-model = joblib.load(os.path.join(BASE_DIR, "scam_classifier.joblib"))
-vectorizer = joblib.load(os.path.join(BASE_DIR, "tfidf_vectorizer.joblib"))
-=======
 model = joblib.load(os.path.join(BASE_DIR, "scam_classifier_xgb_hybrid.joblib"))
 vectorizer = joblib.load(os.path.join(BASE_DIR, "vectorizer.joblib"))
 keywords = joblib.load(os.path.join(BASE_DIR, "keywords.joblib"))
->>>>>>> Stashed changes
 
 # --- Text cleaning ---
 def clean_text(text):
