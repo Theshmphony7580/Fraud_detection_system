@@ -157,7 +157,7 @@ function showSidebar(text, postResponse) {
     </div>
     <div style="margin-bottom: 15px;">
       <h4 style="margin: 0 0 5px; font-size: 14px; color: #333;">Selected Text</h4>
-      <textarea id="inspector-textarea" style="width: 100%; height: 150px; padding: 8px; border: 1px solid #000000ff;color: #000000ff; border-radius: 4px; font-size: 14px; resize: vertical;" readonly>${text}</textarea>
+      <textarea id="inspector-textarea" style="width: 101%; height: 150px; padding: 8px; border: 1px solid #000000ff;color: #000000ff; border-radius: 4px; font-size: 14px; resize: vertical;" readonly>${text}</textarea>
     </div>
     <div>
       <h4 style="margin: 0 0 5px; font-size: 14px; color: #333;">API Response</h4>
