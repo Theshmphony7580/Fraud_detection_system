@@ -2,13 +2,21 @@ from flask import Flask, request, jsonify
 import joblib
 import re
 import os
+import numpy as np
+from scipy.sparse import hstack
 
 app = Flask(__name__)
 
-# --- Load model and vectorizer ---
+# --- Load model, vectorizer, and keywords ---
 BASE_DIR = os.path.dirname(__file__)
+<<<<<<< Updated upstream
 model = joblib.load(os.path.join(BASE_DIR, "scam_classifier.joblib"))
 vectorizer = joblib.load(os.path.join(BASE_DIR, "tfidf_vectorizer.joblib"))
+=======
+model = joblib.load(os.path.join(BASE_DIR, "scam_classifier_xgb_hybrid.joblib"))
+vectorizer = joblib.load(os.path.join(BASE_DIR, "vectorizer.joblib"))
+keywords = joblib.load(os.path.join(BASE_DIR, "keywords.joblib"))
+>>>>>>> Stashed changes
 
 # --- Text cleaning ---
 def clean_text(text):
@@ -16,12 +24,16 @@ def clean_text(text):
     text = re.sub(r"[^a-zA-Z\s.,!?]", "", text)
     return text.strip()
 
-# --- Health check route (for browser GET) ---
+# --- Helper: keyword feature extractor ---
+def keyword_features(text, keywords):
+    return np.array([[1 if kw in text.lower() else 0 for kw in keywords]])
+
+# --- Health check route ---
 @app.route("/", methods=["GET"])
 def home():
     return jsonify({"message": "✅ Scam Detection API is running"}), 200
 
-# --- Prediction route (for POST) ---
+# --- Prediction route ---
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
@@ -33,16 +45,23 @@ def predict():
 
         # Preprocess
         clean = clean_text(message)
-        vec = vectorizer.transform([clean])
+
+        # TF-IDF + Keywords
+        features_tfidf = vectorizer.transform([clean])
+        features_keywords = keyword_features(clean, keywords)
+        features = hstack([features_tfidf, features_keywords])
 
         # Prediction
-        pred = model.predict(vec)[0]
-        prob = model.predict_proba(vec)[0][pred]
-        result = "SCAM 🚨" if pred == 1 else "LEGIT ✅"
+        pred = model.predict(features)[0]
+        proba = model.predict_proba(features)[0][pred]
+
+        label_map = {0: "LEGIT ✅", 1: "SCAM 🚨"}
+        result = label_map.get(int(pred), str(pred))
 
         return jsonify({
+            "text": message,
             "prediction": result,
-            "confidence": float(prob)
+            "confidence": float(proba)
         })
 
     except Exception as e:
