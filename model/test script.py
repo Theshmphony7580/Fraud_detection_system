@@ -3,7 +3,7 @@ import numpy as np
 from scipy.sparse import hstack
 
 # Load components
-model = joblib.load("model\\scam_classifier_xgb_hybrid.joblib")
+model = joblib.load("model\scam_classifier_xgb_hybrid_balanced.joblib")
 vectorizer = joblib.load("model\\vectorizer.joblib")
 keywords = joblib.load("model\\keywords.joblib")
 
@@ -29,7 +29,7 @@ def predict_message(message):
     }
 
 if __name__ == "__main__":
-    msg = "Please confirm your subscription to Friday"
+    msg = "Happy Birthday!"
     print("="*50)
     print(f"Prediction: {predict_message(msg)['prediction']}")
     print(f"Confidence: {predict_message(msg)['confidence']}")
