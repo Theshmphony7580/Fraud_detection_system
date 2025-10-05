@@ -5,6 +5,7 @@ import re
 import os
 import numpy as np
 from scipy.sparse import hstack
+from dotenv import load_dotenv
 import google.generativeai as genai
 
 app = Flask(__name__)
@@ -14,6 +15,9 @@ BASE_DIR = os.path.dirname(__file__)
 model = joblib.load(os.path.join(BASE_DIR, "scam_classifier_xgb_hybrid.joblib"))
 vectorizer = joblib.load(os.path.join(BASE_DIR, "vectorizer.joblib"))
 keywords = joblib.load(os.path.join(BASE_DIR, "keywords.joblib"))
+
+load_dotenv()
+
 
 genai.configure(api_key="YOUR_GEMINI_API_KEY")
 gemini = genai.GenerativeModel("gemini-2.5-flash")
