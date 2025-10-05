@@ -1,0 +1,102 @@
+# .gitignore for Fraud_detection_system
+# Ignore Python cache, build artifacts, virtual envs, IDE files, and model artifacts
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+venv.bak/
+ENV/
+
+# Environments / secret files
+.env
+.env.*
+secrets.env
+*.key
+*.pem
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+pip-wheel-metadata/
+share/python-wheels/
+
+# # Model artifacts, vectorizers, and other binary ML outputs
+# *.joblib
+# *.pkl
+# *.pickle
+# *.model
+
+# # Model artifacts (ignore experiments, keep production)
+# model/temp_*
+# model/old_*
+# # Keep production-ready models
+# !model/scam_classifier_xgb_hybrid.joblib
+# !model/vectorizer.joblib
+# !model/keywords.joblib
+
+
+# Large data / dataset folders (uncomment if you keep datasets out of repo)
+# data/
+# datasets/
+# *.csv.gz
+# *.parquet
+
+# Logs, temp files
+tmp/
+temp/
+
+# Coverage reports
+coverage.xml
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# End of file
