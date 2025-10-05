@@ -1,3 +1,4 @@
+import json
 from flask import Flask, request, jsonify
 import joblib
 import re
@@ -44,57 +45,91 @@ def hybrid_predict(message):
     result = label_map.get(int(pred), str(pred))
 
     prompt = f"""
-    You are a cybersecurity assistant. Classify the following message as either
-    SCAM or LEGIT, and explain in one line why you think so.
+        You are an advanced cybersecurity AI assistant integrated into a real-time text safety system.
 
-    Message:
-    "{message}"      and the verify the prediction made by the local model which is "{result}".
-    Provide your answer in the format: "<Prediction> because <Reasoning>"  and return only SCAM or LEGIT as prediction.
-    Do not mention the local model's prediction in your reasoning.
-    """
+        Your task:
+        Analyze the following text or title and classify it as one of:
+        - **SCAM** → deceptive, manipulative, fraudulent, clickbait, phishing, or money-stealing attempt
+        - **LEGIT** → authentic, normal, safe, or contextually trustworthy
 
-    gemini_response = gemini.generate_content(prompt)
-    reasoning = gemini_response.text.strip()
+        The text may come from any source — a YouTube video title, website banner, WhatsApp/SMS message, email subject, or chatbot conversation.
+        Detect context automatically based on tone, keywords, and intent.
+
+        Message/Text:
+        \"\"\"{message}\"\"\"
+
+        The local ML model has predicted: "{result}".
+        Your job is to:
+        1. Verify if the local model’s prediction seems correct.
+        2. If you disagree, override it.
+        3. Briefly justify your classification with one clear reason focusing on *intent* and *behavioral pattern* (e.g., urgency, clickbait, impersonation, or normal tone).
+
+        Respond ONLY in the following JSON format (no extra text):
+
+        {{
+        "prediction": "SCAM" or "LEGIT",
+        "reason": "<one-line reasoning why>"
+        }}
+        """
+
+
+    response = gemini.generate_content(prompt)
+    text_output = response.text.strip()
+
+    # Try to parse JSON safely
+    try:
+        parsed = json.loads(text_output)
+    except json.JSONDecodeError:
+        parsed = {
+            "prediction": result,
+            "reason": f"Gemini returned unstructured response: {text_output[:80]}..."
+        }
+
+    # Merge results (optional override rule)
+    final_pred = parsed.get("prediction", result)
+    reason = parsed.get("reason", "No reasoning provided.")
 
     return {
-    "text": message,
-    "prediction": reasoning,
-    # "source": "Gemini Layer 🤖"
+        "text": message,
+        # "local_model_prediction": result,
+        "gemini_prediction": final_pred,
+        "reason": reason,
+        # "local_confidence": float(proba)
     }
 
 
     
-    # Gemini fallback if uncertain
-    if proba < 0.9:
-        prompt = f"""
-        You are a cybersecurity assistant. Classify the following message as either
-        SCAM or LEGIT, and explain in one line why you think so.
+    # # Gemini fallback if uncertain
+    # if proba < 0.9:
+    #     prompt = f"""
+    #     You are a cybersecurity assistant. Classify the following message as either
+    #     SCAM or LEGIT, and explain in one line why you think so.
 
-        Message:
-        "{message}"
-        """
-        try:
-            gemini_response = gemini.generate_content(prompt)
-            reasoning = gemini_response.text.strip()
-            return {
-                "text": message,
-                "prediction": reasoning,
-                "source": "Gemini Layer 🤖"
-            }
-        except Exception as e:
-            return {
-                "text": message,
-                "prediction": result,
-                "confidence": float(proba),
-                "source": f"Local Model (Gemini error: {str(e)})"
-            }
+    #     Message:
+    #     "{message}"
+    #     """
+    #     try:
+    #         gemini_response = gemini.generate_content(prompt)
+    #         reasoning = gemini_response.text.strip()
+    #         return {
+    #             "text": message,
+    #             "prediction": reasoning,
+    #             "source": "Gemini Layer 🤖"
+    #         }
+    #     except Exception as e:
+    #         return {
+    #             "text": message,
+    #             "prediction": result,
+    #             "confidence": float(proba),
+    #             "source": f"Local Model (Gemini error: {str(e)})"
+    #         }
 
-    return {
-        "text": message,
-        "prediction": result,
-        "confidence": float(proba),
-        "source": "Local Model ⚙️"
-    }
+    # return {
+    #     "text": message,
+    #     "prediction": result,
+    #     "confidence": float(proba),
+    #     "source": "Local Model ⚙️"
+    # }
 
 
 # --- Health check route ---
