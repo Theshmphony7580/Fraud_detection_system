@@ -53,32 +53,38 @@ def hybrid_predict(message):
     result = label_map.get(int(pred), str(pred))
 
     prompt = f"""
-        You are an advanced cybersecurity AI assistant integrated into a real-time text safety system.
+    You are an advanced cybersecurity AI assistant integrated into a real-time text safety system.
 
-        Your task:
-        Analyze the following text or title and classify it as one of:
-        - **SCAM** → deceptive, manipulative, fraudulent, clickbait, phishing, or money-stealing attempt
-        - **LEGIT** → authentic, normal, safe, or contextually trustworthy
+    Task:
+    Analyze the following message or title and classify it as one of:
+    - **SCAM** → deceptive, manipulative, fraudulent, clickbait, phishing, or money-stealing attempt
+    - **LEGIT** → authentic, normal, safe, or contextually trustworthy
 
-        The text may come from any source — a YouTube video title, website banner, WhatsApp/SMS message, email subject, or chatbot conversation.
-        Detect context automatically based on tone, keywords, and intent.
+    The message may come from any source (e.g., video title, email, SMS, website, chatbot). 
+    Base your decision purely on *intent and behavioral cues*.
 
-        Message/Text:
-        \"\"\"{message}\"\"\"
+    Important Guidelines:
+    - Default to "LEGIT" **unless there are clear, explicit signs of scam-like behavior.**
+    - Do **not** label something as SCAM just because it sounds promotional or exaggerated.
+    - Consider something SCAM **only if** it shows intent to deceive, impersonate, pressure, or steal.
 
-        The local ML model has predicted: "{result}".
-        Your job is to:
-        1. Verify if the local model’s prediction seems correct.
-        2. If you disagree, override it.
-        3. Briefly justify your classification with one clear reason focusing on *intent* and *behavioral pattern* (e.g., urgency, clickbait, impersonation, or normal tone).
+    Message:
+    \"\"\"{message}\"\"\"
 
-        Respond ONLY in the following JSON format (no extra text):
+    Local ML model prediction: "{result}"
 
-        {{
-        "prediction": "SCAM" or "LEGIT",
-        "reason": "<one-line reasoning why>"
-        }}
-        """
+    Your job:
+    1. Evaluate if the local model’s prediction seems correct.
+    2. If you disagree, override it **only with clear justification.**
+    3. Briefly justify your classification with one clear reason (e.g., urgency, impersonation, or normal tone).
+
+    Respond ONLY in strict JSON:
+    {{
+    "prediction": "SCAM" or "LEGIT",
+    "reason": "<one-line reason>"
+    }}
+    """
+
 
 
     response = gemini.generate_content(prompt)
