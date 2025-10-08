@@ -1,25 +1,17 @@
 import joblib
 import numpy as np
-from scipy.sparse import hstack
 
 # Load components
-model = joblib.load("model\scam_classifier_xgb_hybrid_balanced.joblib")
-vectorizer = joblib.load("model\\vectorizer.joblib")
-keywords = joblib.load("model\\keywords.joblib")
+model = joblib.load("model/scam_classifier_lr.joblib")
+vectorizer = joblib.load("model/vectorizer_lr.joblib")
 
 def predict_message(message):
-    # TF-IDF
+    # TF-IDF features only
     features_tfidf = vectorizer.transform([message])
 
-    # Keywords
-    features_keywords = np.array([[1 if kw in message.lower() else 0 for kw in keywords]])
-
-    # Combine
-    features = hstack([features_tfidf, features_keywords])
-
     # Predict
-    prediction = model.predict(features)[0]
-    proba = model.predict_proba(features)[0]
+    prediction = model.predict(features_tfidf)[0]
+    proba = model.predict_proba(features_tfidf)[0]
 
     label_map = {0: "Legit", 1: "Scam"}
     return {
@@ -29,8 +21,10 @@ def predict_message(message):
     }
 
 if __name__ == "__main__":
-    msg = "Happy Birthday!"
+    msg = "470744 is OTP for Aadhaar (XX0708) (valid for 10 mins) at NIC. Aadhaar paperless eKYC can be used as offline verif. visit uidai.gov.in -UIDAI"
+    result = predict_message(msg)
     print("="*50)
-    print(f"Prediction: {predict_message(msg)['prediction']}")
-    print(f"Confidence: {predict_message(msg)['confidence']}")
+    print(f"Message: {result['text']}")
+    print(f"Prediction: {result['prediction']}")
+    print(f"Confidence: {result['confidence']:.4f}")
     print("-"*50)

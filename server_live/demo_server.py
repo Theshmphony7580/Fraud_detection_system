@@ -19,7 +19,7 @@ keywords = joblib.load(os.path.join(BASE_DIR, "keywords.joblib"))
 load_dotenv()
 
 
-genai.configure(api_key="YOUR_GEMINI_API_KEY")
+genai.configure(api_key=load_dotenv("GEMINI_API_KEY"))
 gemini = genai.GenerativeModel("gemini-2.5-flash")
 
 

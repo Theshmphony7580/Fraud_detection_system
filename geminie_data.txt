@@ -1,0 +1,1088 @@
+text,primary_label,secondary_label
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+URGENT ACTION REQUIRED: Your ICICI Bank account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+URGENT ACTION REQUIRED: Your Flipkart account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+"Your HDFC Bank account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+"To access our secure server, please re-enter your username and password for your Flipkart account on the following page.",scam,phishing
+Your Google order #409725 has been delivered. We hope you enjoy your meal!,legit,transactional
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official HDFC Bank website.,legit,marketing
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+Did you see the cricket match last night? What a final over!,general,conversational
+"Your one-time password (OTP) for your Zomato account is 776518. This code will expire in 10 minutes.",legit,account_management
+URGENT ACTION REQUIRED: Your Zomato account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+"Hey, are we still on for coffee tomorrow morning at a cafe on SG Highway?",general,conversational
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+A new device has signed into your ICICI Bank account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!,scam,giveaway
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+Has anyone figured out how to fix the memory leak issue in the latest Python build? I'm stuck.,general,question
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+"Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Netflix order #300624 has been delivered. We hope you enjoy your meal!,legit,transactional
+URGENT ACTION REQUIRED: Your Apple account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Your HDFC Bank order #172462 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your HDFC Bank account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Your Zomato order #218329 has been delivered. We hope you enjoy your meal!,legit,transactional
+URGENT ACTION REQUIRED: Your ICICI Bank account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Thanks for subscribing to our newsletter! You'll now receive weekly updates from Apple.,legit,marketing
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+A new device has signed into your Flipkart account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+Congratulations! Your mobile number has been selected for a prize of a FREE crypto coins. Click to claim before it's given away!,scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE book. Click to claim before it's given away!",scam,giveaway
+"Hey, are we still on for coffee tomorrow morning at Vastrapur Lake?",general,conversational
+"Your one-time password (OTP) for your Myntra account is 269095. This code will expire in 10 minutes.",legit,account_management
+"Your Google account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+Your HDFC Bank order #524792 has been delivered. We hope you enjoy your meal!,legit,transactional
+"To access our secure server, please re-enter your username and password for your Amazon account on the following page.",scam,phishing
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+"Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"To access our secure server, please re-enter your username and password for your ICICI Bank account on the following page.",scam,phishing
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Your one-time password (OTP) for your Microsoft account is 709903. This code will expire in 10 minutes.",legit,account_management
+Hey Dad, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+"Your one-time password (OTP) for your ICICI Bank account is 599187. This code will expire in 10 minutes.",legit,account_management
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+A new device has signed into your Netflix account from a browser in Delhi. If this wasn't you, please secure your account now.,legit,account_management
+Claim your free crypto airdrop now! Connect your wallet to receive 1000 FREE tokens of gift card.,scam,giveaway
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+"Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Your Apple account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your Apple account from your computer. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"Thank you for your payment of ₹3389.87. Your monthly statement for your Apple credit card is now available.",legit,transactional
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Thanks for subscribing to our newsletter! You'll now receive weekly updates from Google.,legit,marketing
+Flight Update: Your flight to Delhi on Sep 29 has been rescheduled. Please review the new departure time.,legit,notification
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Did you see the cricket match last night? What a final over!,general,conversational
+SECURITY ALERT: We've detected a suspicious login to your ICICI Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+Did you see the cricket match last night? What a a final over!,general,conversational
+"A new device has signed into your Zomato account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+Did you see the cricket match last night? What a final over!,general,conversational
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+There is a problem with your shipping address for your recent Apple order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+"A new device has signed into your Amazon account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.",legit,account_management
+"Your Zomato account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your HDFC Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"Hey, are we still on for coffee tomorrow morning at Vastrapur Lake?",general,conversational
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Your Netflix order #155556 has been delivered. We hope you enjoy your meal!,legit,transactional
+Did you see the cricket match last night? What a final over!,general,conversational
+Has anyone figured out how to fix the memory leak issue in the latest Python build? I'm stuck.,general,question
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+URGENT ACTION REQUIRED: Your Zomato account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at HDFC Bank.,legit,marketing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+"Hey, are we still on for coffee tomorrow morning at Vastrapur Lake?",general,conversational
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+"Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+Your Myntra order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+Your ICICI Bank order #582522 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Zomato website.,legit,marketing
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"A new device has signed into your HDFC Bank account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Your one-time password (OTP) for your Myntra account is 269095. This code will expire in 10 minutes.",legit,account_management
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+Can you recommend a good place for traditional Gujarati thali near Vastrapur Lake?,general,question
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+"To access our secure server, please re-enter your username and password for your Flipkart account on the following page.",scam,phishing
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+SECURITY ALERT: We've detected a suspicious login to your HDFC Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at Law Garden?",general,conversational
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+"To access our secure server, please re-enter your username and password for your Zomato account on the following page.",scam,phishing
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your Paytm account from a new device in Mumbai. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Myntra order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your ICICI Bank order #254641 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"To access our secure server, please re-enter your username and password for your Microsoft account on the following page.",scam,phishing
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+Did you see the cricket match last night? What a final over!,general,conversational
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+Your Myntra order #215161 has been delivered. We hope you enjoy your meal!,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+There is a problem with your shipping address for your recent HDFC Bank order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"Your one-time password (OTP) for your Myntra account is 912253. This code will expire in 10 minutes.",legit,account_management
+"Your one-time password (OTP) for your Myntra account is 841571. This code will expire in 10 minutes.",legit,account_management
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Claim your free crypto airdrop now! Connect your wallet to receive 1000 FREE tokens of gift card.,scam,giveaway
+"To access our secure server, please re-enter your username and password for your Zomato account on the following page.",scam,phishing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+Your Netflix order #155556 has been delivered. We hope you enjoy your meal!,legit,transactional
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+Did you see the cricket match last night? What a a final over!,general,conversational
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Netflix.,legit,marketing
+"A new device has signed into your Flipkart account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.",legit,account_management
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Myntra order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Your Zomato order #218329 has been delivered. We hope you enjoy your meal!,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at HDFC Bank.,legit,marketing
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+SECURITY ALERT: We've detected a suspicious login to your Paytm account from a new device in Mumbai. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Netflix order #155556 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Can you recommend a good place for traditional Gujarati thali near Vastrapur Lake?,general,question
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Did you see the cricket match last night? What a a final over!,general,conversational
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+Your Myntra order #215161 has been delivered. We hope you enjoy your meal!,legit,transactional
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Your Apple account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your Apple account from your computer. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+"To access our secure server, please re-enter your username and password for your Microsoft account on the following page.",scam,phishing
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+Flight Update: Your flight to Delhi on Sep 29 has been rescheduled. Please review the new departure time.,legit,notification
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"A new device has signed into your ICICI Bank account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+"Hey, are we still on for coffee tomorrow morning at Law Garden?",general,conversational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Can you recommend a good place for traditional Gujarati thali near the cinema?,general,question
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+"To access our secure server, please re-enter your username and password for your Zomato account on the following page.",scam,phishing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+Your Myntra order #215161 has been delivered. We hope you enjoy your meal!,legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Claim your free crypto airdrop now! Connect your wallet to receive 1000 FREE tokens of headphones.,scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+"Thank you for your payment of ₹3389.87. Your monthly statement for your Apple credit card is now available.",legit,transactional
+"A new device has signed into your HDFC Bank account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+This offer for a free book is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+SECURITY ALERT: We've detected a suspicious login to your ICICI Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Netflix order #155556 has been delivered. We hope you enjoy your meal!,legit,transactional
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+"Hey, are we still on for coffee tomorrow morning at Vastrapur Lake?",general,conversational
+"Thank you for your payment of ₹4353.11. Your monthly statement for your Zomato credit card is now available.",legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Can you recommend a good place for traditional Gujarati thali near a cafe on SG Highway?,general,question
+Did you see the cricket match last night? What a a final over!,general,conversational
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Google.,legit,marketing
+"Congratulations! Your mobile number has been selected for a prize of a FREE crypto coins. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+"To access our secure server, please re-enter your username and password for your Google account on the following page.",scam,phishing
+"Your Apple account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at Vastrapur Lake?",general,conversational
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Netflix.,legit,marketing
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your ICICI Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+There is a problem with your shipping address for your recent HDFC Bank order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+Did you see the cricket match last night? What a a final over!,general,conversational
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+Did you see the cricket match last night? What a final over!,general,conversational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at HDFC Bank.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+URGENT ACTION REQUIRED: Your Zomato account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+"Your Google account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"Thank you for your payment of ₹4353.11. Your monthly statement for your Zomato credit card is now available.",legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Your Google account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+URGENT ACTION REQUIRED: Your ICICI Bank account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"To access our secure server, please re-enter your username and password for your Microsoft account on the following page.",scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+There is a problem with your shipping address for your recent HDFC Bank order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+SECURITY ALERT: We've detected a suspicious login to your Apple account from your computer. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Zomato.,legit,marketing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order #218329 has been delivered. We hope you enjoy your meal!,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Zomato.,legit,marketing
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+Your HDFC Bank order #524792 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Flight Update: Your flight to Delhi on Sep 29 has been rescheduled. Please review the new departure time.,legit,notification
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Can you recommend a good place for traditional Gujarati thali near the cinema?,general,question
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+"Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+URGENT ACTION REQUIRED: Your Zomato account has been flagged for closure. You must verify your account now to prevent this.,scam,urgency
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at HDFC Bank.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Myntra order #215161 has been delivered. We hope you enjoy your meal!,legit,transactional
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Did you see the cricket match last night? What a a final over!,general,conversational
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+This offer for a free book is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Did you see the cricket match last night? What a a final over!,general,conversational
+"A new device has signed into your HDFC Bank account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+Did you see the cricket match last night? What a a final over!,general,conversational
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Can you recommend a good place for traditional Gujarati thali near a cafe on SG Highway?,general,question
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+"Your one-time password (OTP) for your Myntra account is 912253. This code will expire in 10 minutes.",legit,account_management
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+There is a problem with your shipping address for your recent Apple order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Zomato.,legit,marketing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+"A new device has signed into your ICICI Bank account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Your one-time password (OTP) for your Microsoft account is 709903. This code will expire in 10 minutes.",legit,account_management
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your ICICI Bank order #582522 has been delivered. We hope you enjoy your meal!,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Netflix.,legit,marketing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+"A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.",legit,account_management
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Your one-time password (OTP) for your Myntra account is 912253. This code will expire in 10 minutes.",legit,account_management
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your Google account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your HDFC Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official HDFC Bank website.,legit,marketing
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at HDFC Bank.,legit,marketing
+There is a problem with your shipping address for your recent Apple order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Zomato.,legit,marketing
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Zomato website.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!,scam,giveaway
+"Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Your Apple account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+"Your one-time password (OTP) for your Microsoft account is 709903. This code will expire in 10 minutes.",legit,account_management
+"To access our secure server, please re-enter your username and password for your Flipkart account on the following page.",scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+Did you see the cricket match last night? What a a final over!,general,conversational
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+Can you recommend a good place for traditional Gujarati thali near the cinema?,general,question
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+Did you see the cricket match last night? What a a final over!,general,conversational
+"A new device has signed into your ICICI Bank account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+"Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+SECURITY ALERT: We've detected a suspicious login to your Apple account from your computer. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Zomato order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your ICICI Bank order #254641 has been delivered. We hope you enjoy your meal!,legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+This offer for a free book is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Netflix.,legit,marketing
+"To access our secure server, please re-enter your username and password for your Google account on the following page.",scam,phishing
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"To access our secure server, please re-enter your username and password for your ICICI Bank account on the following page.",scam,phishing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your ICICI Bank order #582522 has been delivered. We hope you enjoy your meal!,legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Did you see the cricket match last night? What a a final over!,general,conversational
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"To access our secure server, please re-enter your username and password for your Flipkart account on the following page.",scam,phishing
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Hey Dad, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Claim your free crypto airdrop now! Connect your wallet to receive 1000 FREE tokens of laptop.,scam,giveaway
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Did you see the cricket match last night? What a a final over!,general,conversational
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!,scam,giveaway
+"Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.",scam,impersonation
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Zomato.,legit,marketing
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+"Congratulations! Your mobile number has been selected for a prize of a FREE crypto coins. Click to claim before it's given away!",scam,giveaway
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+This offer for a free gift card is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"Your Zomato account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+This offer for a free crypto coins is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+"Hey, are we still on for coffee tomorrow morning at Law Garden?",general,conversational
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+"Your Zomato order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your Apple account from your computer. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+According to a recent study, the Western Ghats are home to over 5,000 species of flowering plants.,general,informational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+Can you recommend a good place for traditional Gujarati thali near Vastrapur Lake?,general,question
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"Your Apple account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Did you see the cricket match last night? What a a final over!,general,conversational
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+SECURITY ALERT: We've detected a suspicious login to your HDFC Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+Your ICICI Bank order #582522 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+"To access our secure server, please re-enter your username and password for your Microsoft account on the following page.",scam,phishing
+Did you see the cricket match last night? What a final over!,general,conversational
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+"To access our secure server, please re-enter your username and password for your Google account on the following page.",scam,phishing
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+"Your Google account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+"To access our secure server, please re-enter your username and password for your Zomato account on the following page.",scam,phishing
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+This offer for a free book is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Myntra order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your Zomato order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+"Your Zomato account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!,scam,giveaway
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Hey Dad, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+Can you recommend a good place for traditional Gujarati thali near a cafe on SG Highway?,general,question
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+Your Myntra order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Your one-time password (OTP) for your Microsoft account is 709903. This code will expire in 10 minutes.",legit,account_management
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+The traffic on SG Highway is terrible right now, avoid it if you can.,general,conversational
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+"Congratulations! Your mobile number has been selected for a prize of a FREE crypto coins. Click to claim before it's given away!",scam,giveaway
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Hey Dad, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Your one-time password (OTP) for your Zomato account is 776518. This code will expire in 10 minutes.",legit,account_management
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Can you recommend a good place for traditional Gujarati thali near a cafe on SG Highway?,general,question
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!,scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+SECURITY ALERT: We've detected a suspicious login to your HDFC Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+There is a problem with your shipping address for your recent Apple order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE book. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+Your ICICI Bank order #254641 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Did you see the cricket match last night? What a a final over!,general,conversational
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Did you see the cricket match last night? What a a final over!,general,conversational
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+"To access our secure server, please re-enter your username and password for your ICICI Bank account on the following page.",scam,phishing
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"You've been selected as the winner of our ₹1,00,000 weekly giveaway. To receive the funds, please provide your bank account details.",scam,giveaway
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Can you recommend a good place for traditional Gujarati thali near a cafe on SG Highway?,general,question
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!,scam,giveaway
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+"A new device has signed into your ICICI Bank account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE book. Click to claim before it's given away!",scam,giveaway
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+"To access our secure server, please re-enter your username and password for your ICICI Bank account on the following page.",scam,phishing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Apple.,legit,marketing
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!,scam,giveaway
+SECURITY ALERT: We've detected a suspicious login to your ICICI Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!,scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+Did you see the cricket match last night? What a final over!,general,conversational
+Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your one-time password (OTP) for your Zomato account is 964263. This code will expire in 10 minutes.",legit,account_management
+"Your one-time password (OTP) for your Myntra account is 912253. This code will expire in 10 minutes.",legit,account_management
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+There is a problem with your shipping address for your recent HDFC Bank order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE gift card. Click to claim before it's given away!",scam,giveaway
+Your table reservation for 4 at 'Agashiye' for 8 PM tonight is confirmed.,legit,notification
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Netflix website.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+SECURITY ALERT: We've detected a suspicious login to your ICICI Bank account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+A new device has signed into your ICICI Bank account from a new device in Mumbai. If this wasn't you, please secure your account now.,legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your HDFC Bank order #946927 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Your Google order of a gift card has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"To access our secure server, please re-enter your username and password for your Microsoft account on the following page.",scam,phishing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+Congratulations! Your mobile number has been selected for a prize of a FREE book. Click to claim before it's given away!,scam,giveaway
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Your one-time password (OTP) for your Microsoft account is 709903. This code will expire in 10 minutes.",legit,account_management
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Thank you for your payment of ₹1186.29. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your HDFC Bank order #524792 has been delivered. We hope you enjoy your meal!,legit,transactional
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Your Myntra order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Congratulations! Your mobile number has been selected for a prize of a FREE book. Click to claim before it's given away!",scam,giveaway
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.",legit,account_management
+There is a problem with your shipping address for your recent Netflix order. Please update it now or your package will be returned: [http://update.info/scam],scam,phishing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+The latest meteorological report predicts heavy rainfall across Gujarat for the next 48 hours.,general,informational
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+"Your one-time password (OTP) for your Zomato account is 776518. This code will expire in 10 minutes.",legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"Thank you for your payment of ₹1609.84. Your monthly statement for your Netflix credit card is now available.",legit,transactional
+Your ICICI Bank order #254641 has been delivered. We hope you enjoy your meal!,legit,transactional
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+"Hey, are we still on for coffee tomorrow morning at a cafe on SG Highway?",general,conversational
+"Your one-time password (OTP) for your Myntra account is 841571. This code will expire in 10 minutes.",legit,account_management
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+This offer for a free headphones is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Netflix.,legit,marketing
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+SECURITY ALERT: We've detected a suspicious login to your Myntra account from an IP address in Ahmedabad. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Congratulations! Your mobile number has been selected for a prize of a FREE headphones. Click to claim before it's given away!,scam,giveaway
+Hey Mom, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+Your Myntra order of a crypto coins has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"Your one-time password (OTP) for your Myntra account is 269095. This code will expire in 10 minutes.",legit,account_management
+Your Zomato order of a headphones has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+"Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!",scam,giveaway
+Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"Thank you for your payment of ₹2500.57. Your monthly statement for your Flipkart credit card is now available.",legit,transactional
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+"To access our secure server, please re-enter your username and password for your Flipkart account on the following page.",scam,phishing
+"Your Zomato order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.",legit,transactional
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+Hey A colleague, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next week.,scam,impersonation
+I'm not sure I agree with the author's conclusion in the last chapter. I thought the evidence was weak.,general,opinion
+This offer for a free laptop is for a limited time only! Prices will go up tomorrow. Don't miss your chance.,scam,urgency
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+"Thank you for your payment of ₹3193.31. Your monthly statement for your Google credit card is now available.",legit,transactional
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+Final notice: Your account subscription has expired. Renew now to maintain access and avoid permanent deletion of your files.,scam,urgency
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Flipkart website.,legit,marketing
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Google website.,legit,marketing
+Your Google order #522774 has been delivered. We hope you enjoy your meal!,legit,transactional
+Your Zomato order #331584 has been delivered. We hope you enjoy your meal!,legit,transactional
+I really think this is the best phone I've ever owned. The battery life is incredible. 10/10 would recommend.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Your Zomato order of a book has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.,legit,account_management
+Your Zomato order #331575 has been delivered. We hope you enjoy your meal!,legit,transactional
+"This is a reminder that your dental appointment is scheduled for tomorrow, Sep 28, 2025, at 11 AM.",legit,notification
+Can you recommend a good place for traditional Gujarati thali near Law Garden?,general,question
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"A new device has signed into your HDFC Bank account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"A new device has signed into your ICICI Bank account from a browser in Delhi. If this wasn't you, please secure your account now.",legit,account_management
+"Your one-time password (OTP) for your Zomato account is 968270. This code will expire in 10 minutes.",legit,account_management
+SECURITY ALERT: We've detected a suspicious login to your Zomato account from a browser in Delhi. Please verify your identity here: [http://bit.ly/fake-link],scam,phishing
+This message is from the tax department. There is a discrepancy in your filing. You must resolve it immediately to avoid legal action.,scam,impersonation
+Your Myntra order of a laptop has been shipped. Tracking AWB #592018482. Expected delivery: Sep 29, 2025.,legit,transactional
+"A new device has signed into your Zomato account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+"Hey, are we still on for coffee tomorrow morning at the cinema?",general,conversational
+"A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.",legit,account_management
+"Hi, it's me. I'm traveling and my wallet was stolen. Can you please send me some money? I'll explain later but please don't call.",scam,impersonation
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+Congratulations! Your mobile number has been selected for a prize of a FREE laptop. Click to claim before it's given away!,scam,giveaway
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+The food at that new cafe is okay, but I think it's a bit overpriced for the portion size.,general,opinion
+Our End of Season Sale is live! Get up to 50% off on all items. Shop now on our official Myntra website.,legit,marketing
+We miss you! Here is a special 20% discount code just for you. Come back and shop with us at Myntra.,legit,marketing
+What's the best way to get from the Ahmedabad airport to the city center at this time of night?,general,question
+"A new device has signed into your HDFC Bank account from your computer. If this wasn't you, please secure your account now.",legit,account_management
+"Your one-time password (OTP) for your Zomato account is 465245. This code will expire in 10 minutes.",legit,account_management
+A new device has signed into your Myntra account from an IP address in Ahmedabad. If this wasn't you, please secure your account now.,legit,account_management
+"Your Zomato account password was successfully updated. If you did not make this change, please contact us immediately.",legit,account_management
+"The main ingredient in this recipe is gram flour, which is also known as besan.",general,informational
+Hey A friend, I'm in a bit of trouble and need some money. Please transfer to this account and I will pay you back next
