@@ -19,9 +19,13 @@ keywords = joblib.load(os.path.join(BASE_DIR, "keywords.joblib"))
 load_dotenv()
 
 
-genai.configure(api_key=load_dotenv("GEMINI_API_KEY"))
-gemini = genai.GenerativeModel("gemini-2.5-flash")
+api_key = os.getenv("GEMINI_API_KEY")
 
+# Configure Gemini with the API key
+genai.configure(api_key=api_key)
+
+# Create the model
+gemini = genai.GenerativeModel("gemini-2.0-flash")  
 
 # --- Text cleaning ---
 def clean_text(text):
